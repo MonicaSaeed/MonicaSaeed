@@ -12,7 +12,7 @@
 [![CodeForces Badge](https://img.shields.io/badge/-CodeForces-0088cc?style=for-the-badge&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Monica_Saeed)
 
 ## 🛠 Skills
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style= "display:block"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
