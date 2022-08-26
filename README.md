@@ -3,7 +3,7 @@
 ## 🚀 About Me
 👩🏻‍💻Student at Faculty of Computers and Artificial Intelligence-Cairo University
 
-<img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="width: 45%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="width: 470px; display: inline-block;" data-target="animated-image.originalImage">
 
 ## 🔗 Connect with me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-saeed-3627b2234/)
