@@ -13,6 +13,7 @@
 
 ## 🛠 My skills
 ![image](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![image](https://img.icons8.com/?size=256&id=40670&format=png)
 ![image](https://img.icons8.com/color/48/000000/python--v2.png)
 ![image](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![image](https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
