@@ -12,11 +12,12 @@
 [![CodeForces Badge](https://img.shields.io/badge/-CodeForces-0088cc?style=for-the-badge&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Monica_Saeed)
 
 ## 🛠 My skills
-![image](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![image](https://img.icons8.com/?size=256&id=40670&format=png)
-![image](https://img.icons8.com/color/48/000000/python--v2.png)
-![image](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-![image](https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
-![image](https://img.icons8.com/color/48/000000/html-5--v1.png)
-![image](https://img.icons8.com/color/48/000000/css3.png)
-![image](https://img.icons8.com/color/48/000000/javascript--v2.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+![Python](https://img.icons8.com/color/48/000000/python--v2.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
+![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
+
