@@ -20,4 +20,7 @@
 ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![Flutter](https://img.icons8.com/color/48/000000/flutter.png) 
-
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
+![React.js](https://img.icons8.com/color/48/000000/react-native.png)
