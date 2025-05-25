@@ -8,7 +8,7 @@ Graduate in Computer and Artificial Intelligence with a diploma in Mobile Applic
 ## 🔗 Connect with me 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-saeed-3627b2234/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MonicaSaeed12)
-[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:monicasaeed12@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:monica.saeed.habib@gmail.com)
 [![CodeForces Badge](https://img.shields.io/badge/-CodeForces-0088cc?style=for-the-badge&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Monica_Saeed)
 
 ## 🛠 My skills
