@@ -1,7 +1,7 @@
 # Hi 👋, I'm Monica Saeed!
 
 ## 🚀 About Me
-Graduate in Computer and Artificial Intelligence with a diploma in Mobile Applications Development. I specialize in frontend (Angular, React.js), backend (Node.js), and mobile (Flutter) development. I am passionate about building user-friendly and efficient applications. I am proficient in using Figma to design intuitive and visually appealing user interfaces for both web and mobile platforms.
+Graduate in Computer and Artificial Intelligence at Cairo University with a diploma in Mobile Applications Development from the Information Technology Institution - ITI. I specialize in frontend (Angular, React.js), backend (Node.js), and mobile (Flutter) development. I am passionate about building user-friendly and efficient applications. I am proficient in using Figma to design intuitive and visually appealing user interfaces for both web and mobile platforms.
 
 <img align="right" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="width: 470px; display: inline-block;" data-target="animated-image.originalImage">
 
