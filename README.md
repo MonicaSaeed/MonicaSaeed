@@ -24,3 +24,9 @@ Graduate in Computer and Artificial Intelligence at Cairo University with a dipl
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+
+## 📈 GitHub Stats
+![Monica's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaSaeed&layout=compact&theme=radical)
